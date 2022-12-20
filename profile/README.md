@@ -18,7 +18,7 @@ You'll find here the repository for the [Viash source code](https://github.com/v
 
 Viash is currently used in a variaty of projects, the open source ones are:
 
-- [Open Pipelines](https://openpipelines.bio/): components and pipelines for single-cell single-cell multi-omics data
+- [Open Pipelines](https://openpipelines.bio/): components and pipelines for single-cell (multi-omics) data
 - [Open Problems](https://openproblems.bio/): a benchmarking framework for single-cell methods
 - [LuciusOperations](https://www.data-intuitive.com/LuciusOperations/README.html): a devops toolbox for managing a computational REST backend.
 
